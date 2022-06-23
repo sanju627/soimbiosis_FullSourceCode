@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "989162025243",
+    "project_id": "crypto-rising--soimbiosis",
+    "firebase_url": "https://crypto-rising--soimbiosis-default-rtdb.firebaseio.com",
+    "storage_bucket": "crypto-rising--soimbiosis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989162025243:android:52b890589fdf87e3f4a3be",
+        "android_client_info": {
+          "package_name": "com.MonsterTruckz.CryptoRisingSoimbiosis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989162025243-2eolc5q1mg7qtnlojgr2tr5e9su4s145.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASxaBfg9VE09EtW5bOyKI4FSDEttHeeI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989162025243-2eolc5q1mg7qtnlojgr2tr5e9su4s145.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

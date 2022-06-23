@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/TopDownShooter/Scenes/Login.unity
+    guid: 37dd2175cf4c6494ca745072faeeff44
+  - enabled: 1
+    path: Assets/TopDownShooter/Scenes/MenuEnvironment.unity
+    guid: cf7c677bbb7aac345a7c35e4f1b92a36
+  - enabled: 1
+    path: Assets/TopDownShooter/Scenes/Game.unity
+    guid: 89d7a915de4597b4da6fd642de36a4f4
+  - enabled: 1
+    path: Assets/TopDownShooter/Scenes/Junkyard.unity
+    guid: a05d5f0deb929754292098952a6ea9b7
+  - enabled: 1
+    path: Assets/TopDownShooter/Scenes/MainCity.unity
+    guid: 5de09fbd5df351a4a8ee0ea56371faab
+  - enabled: 1
+    path: Assets/TopDownShooter/Scenes/CityBase.unity
+    guid: f44f2ce0981fff248958652638a5574c
+  - enabled: 1
+    path: Assets/TopDownShooter/Scenes/CountrySide.unity
+    guid: 383434adfdfa6dc44a3a9ffb50902996
+  - enabled: 1
+    path: Assets/TopDownShooter/Scenes/InsectoidBoss.unity
+    guid: 757ca71f948a5a0479d95ad953b37dd2
+  - enabled: 1
+    path: Assets/TopDownShooter/Scenes/Town.unity
+    guid: 44dfe63c727c1114b87ea29736e397fe
+  - enabled: 1
+    path: Assets/TopDownShooter/Scenes/Village.unity
+    guid: ebdf92adfcf61954aafc126398774461
+  m_configObjects: {}

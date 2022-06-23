@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d0199c11aa6f514784c5c69cd8378d8, type: 3}
+  m_Name: PlayFabEditorPrefsSO
+  m_EditorClassIdentifier: 
+  DevAccountEmail: sanjusah627@gmail.com
+  DevAccountToken: 54fkx9rugk8qbhr5p6dze9za5gr81hbq7314pdd8ard4foytf1fp73j4foz3k5azme3eq3m5wr7gpohxmtshyg6gih7wmzbhsayz1xjajiy9etseyi6xp4mcaa74p7rzt1eqb18uwb16ifs57xe8dcrcyz9ygsnuyq8krpn96t44bcgoora4k4t1n76fro1x8s8ybyz8
+  SelectedStudio: Monster Truckz INC
+  SdkPath: Assets/PlayFabSDK
+  EdExPath: 
+  LocalCloudScriptPath: 
+  PanelIsShown: 0
+  curMainMenuIdx: 1
+  curSubMenuIdx: 0
